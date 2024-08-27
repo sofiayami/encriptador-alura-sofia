@@ -2,4 +2,4 @@
 
 - estado del proyecto: terminado
 
-```npm install react``
+```npm install react```
